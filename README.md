@@ -31,7 +31,6 @@ El análisis incluyó los siguientes bloques:
 3. **Calificación promedio** de los clientes.
 4. **Productos más y menos vendidos**.
 5. **Costo promedio de envío**.
-6. (Opcional) Análisis geográfico por coordenadas `lat/lon`.
 
 ---
 
