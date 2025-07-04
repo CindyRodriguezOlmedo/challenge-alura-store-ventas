@@ -54,7 +54,8 @@ A continuación, algunos gráficos generados:
 ### 🔹 Opción 1 – Desde Google Colab (Recomendado)
 
 1. Hacé clic en este enlace para abrir el notebook en Colab:  
-   👉 [Abrir en Colab](https://colab.research.google.com/)
+   👉 [Abrir en Colab](https://colab.research.google.com/github/cindyrodriguezolmedo/challenge-alura-store-ventas/blob/main/alura_store_analisis.ipynb)
+)
 
 2. Ejecutá las celdas con `Shift + Enter`.
 
