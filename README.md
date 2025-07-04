@@ -53,9 +53,7 @@ A continuación, algunos gráficos generados:
 ### 🔹 Opción 1 – Desde Google Colab (Recomendado)
 
 1. Hacé clic en este enlace para abrir el notebook en Colab:  
-   👉 [Abrir en Colab]([https://colab.research.google.com/github/cindyrodriguezolmedo/challenge-alura-store-ventas/blob/main/alura_store_analisis.ipynb](https://colab.research.google.com/github/CindyRodriguezOlmedo/challenge-alura-store-ventas/blob/main/AluraStoreLatam.ipynb))
-)
-
+   👉 [Abrir en Colab]([https://colab.research.google.com/github/cindyrodriguezolmedo/challenge-alura-store-ventas/blob/main/alura_store_latam.ipynb])
 2. Ejecutá las celdas con `Shift + Enter`.
 
 3. No requiere instalación adicional. Todos los datasets se cargan desde GitHub.
